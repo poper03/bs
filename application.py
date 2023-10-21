@@ -24,7 +24,7 @@ welcome = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jenish Revaldo C - Data Analyst Resume</title>
+    <title>gerwin niraj m - Data Analyst Resume</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -75,7 +75,7 @@ welcome = """
 
     <div class="education">
         <h2>Education</h2>
-        <h3>B.Sc. Mathematics</h3>
+        <h3>computer application/h3>
         <p>Loyola College</p>
         <p>06/2019 - 04/2022, Chennai</p>
         <p>Graduate with a first-class degree.</p>
